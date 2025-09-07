@@ -78,3 +78,9 @@ logs
 # Data files
 *.csv
 *.json.bak
+*.csv
+*.json
+*.zip
+*.tar
+*.gz
+*.pkl
