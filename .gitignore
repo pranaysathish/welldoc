@@ -79,7 +79,6 @@ logs
 *.csv
 *.json.bak
 *.csv
-*.json
 *.zip
 *.tar
 *.gz
