@@ -1,13 +1,20 @@
 # WellDoc: AI-Driven Risk Prediction Engine for Chronic Care Patients
 
-## 🏥 Overview
-Advanced AI-powered healthcare dashboard that predicts patient deterioration risk within 90 days using comprehensive EHR data analysis.
+## 🏥 Overview  
 
-# dataset - https://drive.google.com/file/d/1BLG4k2LofotczI9fVY_GsurUza4wyaBr/view?usp=sharing
+Advanced AI-powered healthcare dashboard that predicts patient deterioration risk within 90 days using comprehensive EHR data analysis.  
 
-# colab file :
- 1. https://colab.research.google.com/drive/1pNbrIoYDd_tDAx3DCDOUqH8iEnLpFp92?usp=sharing
- 2. https://colab.research.google.com/drive/1V4EFzjT0Eg6vSthxrKnWOdVilYdeaCS-?usp=sharing
+---
+
+### 📂 Dataset  
+[Download Dataset](https://drive.google.com/file/d/1BLG4k2LofotczI9fVY_GsurUza4wyaBr/view?usp=sharing)  
+
+---
+
+### 🔗 Colab Files  
+1. [Colab Notebook 1](https://colab.research.google.com/drive/1pNbrIoYDd_tDAx3DCDOUqH8iEnLpFp92?usp=sharing)  
+2. [Colab Notebook 2](https://colab.research.google.com/drive/1V4EFzjT0Eg6vSthxrKnWOdVilYdeaCS-?usp=sharing)  
+
 
 ## 🎯 Key Features
 - **96.93% AUROC** - Exceptional model performance
