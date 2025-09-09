@@ -1,0 +1,5 @@
+{
+  "appId": "com.mycompany.myapp",
+  "appName": "Health Monitor",
+  "webDir": "build"
+}
