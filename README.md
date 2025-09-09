@@ -3,6 +3,9 @@
 ## 🏥 Overview
 Advanced AI-powered healthcare dashboard that predicts patient deterioration risk within 90 days using comprehensive EHR data analysis.
 dataset - https://drive.google.com/file/d/1BLG4k2LofotczI9fVY_GsurUza4wyaBr/view?usp=sharing
+colab file :
+ 1. https://colab.research.google.com/drive/1pNbrIoYDd_tDAx3DCDOUqH8iEnLpFp92?usp=sharing
+ 2. https://colab.research.google.com/drive/1V4EFzjT0Eg6vSthxrKnWOdVilYdeaCS-?usp=sharing
 
 ## 🎯 Key Features
 - **96.93% AUROC** - Exceptional model performance
